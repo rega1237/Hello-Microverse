@@ -1,22 +1,39 @@
 # Hello-Microverse
 
-A project to practice Git Flow and Linters
+This is a practice exercise for Microverse about Git Flow and Git pull request.
 
-- Built With : HTML, CSS
-- Major languages
-- Frameworks: None
-- Getting Started
+## Built With
 
-This is a practice of Git Flow
+- Html & CSS
+- GitHub
 
-Author 👤 Rafael Guzman
+## Getting Started
 
-GitHub: @rega1237 Twitter: @twitterhandle LinkedIn: LinkedIn
+A project to practice Git Flow and Git Pull request, creating a new bash and then pass by pull request to evaluate through linters looking for a good approach and result code.
 
-🤝 Contributing Contributions, issues, and feature requests are welcome!
+## Author 
 
-Feel free to check the issues page.
+👤 **Rafael Guzman**
 
-Show your support Give a ⭐️ if you like this project!
+- GitHub: @rega1237 
+- Twitter: @rega1237 
 
-Acknowledgments Hat tip to anyone whose code was used Inspiration etc 📝 License This project is MIT licensed.
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
